@@ -1,0 +1,26 @@
+2018-07-25 09:21:29,800 - control_server.py [line36]DEBUG root成功登录192.168.23.129主机
+2018-07-25 09:21:29,800 - control_server.py [line36]DEBUG root成功登录192.168.23.129主机
+2018-07-25 09:21:29,800 - control_server.py [line121]DEBUG root用户登录192.168.23.129主机操作控制台
+2018-07-25 09:21:29,800 - control_server.py [line121]DEBUG root用户登录192.168.23.129主机操作控制台
+2018-07-25 09:21:56,063 - control_server.py [line127]DEBUG 输入了命令df -h
+2018-07-25 09:21:56,063 - control_server.py [line127]DEBUG 输入了命令df -h
+2018-07-25 09:21:56,083 - control_server.py [line46]DEBUG root登录192.168.23.129执行了df -h命令
+2018-07-25 09:21:56,083 - control_server.py [line46]DEBUG root登录192.168.23.129执行了df -h命令
+2018-07-25 09:31:53,652 - control_server.py [line34]DEBUG root成功登录192.168.23.129主机
+2018-07-25 09:31:53,652 - control_server.py [line119]DEBUG root用户登录192.168.23.129主机操作控制台
+2018-07-25 09:32:08,718 - control_server.py [line125]DEBUG 输入了命令df -h
+2018-07-25 09:32:08,738 - control_server.py [line44]DEBUG root登录192.168.23.129执行了df -h命令
+2018-07-25 09:45:55,992 - control_server.py [line125]DEBUG 输入了命令 q
+2018-07-25 09:45:56,002 - control_server.py [line44]DEBUG root登录192.168.23.129执行了 q命令
+2018-07-25 09:45:59,519 - control_server.py [line54]DEBUG root登录的192.168.23.129主机断开连接
+2018-07-25 10:21:56,563 - control_server.py [line34]DEBUG root成功登录192.168.23.129主机
+2018-07-25 10:21:56,563 - control_server.py [line120]DEBUG root用户登录192.168.23.129主机操作控制台
+2018-07-25 10:22:04,646 - control_server.py [line126]DEBUG 输入了命令df -h
+2018-07-25 10:22:04,677 - control_server.py [line44]DEBUG root登录192.168.23.129执行了df -h命令
+2018-07-25 10:22:06,867 - control_server.py [line54]DEBUG root登录的192.168.23.129主机断开连接
+2018-07-25 10:22:47,388 - control_server.py [line34]DEBUG root成功登录192.168.23.129主机
+2018-07-25 10:22:47,819 - upload_and_download.py [line22]DEBUG bting.jpg上传到远程服务器端download/bt.jpg
+2018-07-25 11:45:11,191 - control_server.py [line34]DEBUG root成功登录192.168.23.129主机
+2018-07-25 11:46:46,726 - control_server.py [line34]DEBUG root成功登录192.168.23.129主机
+2018-07-25 11:46:47,187 - upload_and_download.py [line75]DEBUG C:\Users\Administrator\Desktop\my_code\comunicate_with_remote_server\upload\bting.jpg上传到远程服务器端upload/bting.jpg
+2018-07-25 11:46:47,192 - upload_and_download.py [line75]DEBUG C:\Users\Administrator\Desktop\my_code\comunicate_with_remote_server\upload\python上传到远程服务器端upload/python

@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "D:\\anaconda\\envs\\py35\\python.exe",
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": false,
+    "python.linting.lintOnSave": true,
+    "python.formatting.provider": "yapf"
+}

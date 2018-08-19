@@ -1,0 +1,17 @@
+2018-05-19 09:16:31,156 - login.py [line17]DEBUG 文件已存在
+2018-05-19 09:16:31,158 - login.py [line36]DEBUG 该用户数据文件已生成
+2018-05-19 09:51:17,483 - login.py [line17]DEBUG 文件已存在
+2018-05-19 09:51:17,485 - login.py [line39]DEBUG 该用户数据文件已生成
+2018-05-19 09:53:14,108 - login.py [line17]DEBUG 文件已存在
+2018-05-19 09:54:46,290 - login.py [line17]DEBUG 文件已存在
+2018-05-19 09:56:40,199 - login.py [line17]DEBUG 文件已存在
+2018-05-19 09:56:40,200 - login.py [line29]INFO hujingyi登录成功
+2018-05-19 10:34:34,025 - login.py [line41]DEBUG 该pengtao用户数据文件已生成
+2018-05-19 15:14:15,620 - login.py [line17]DEBUG 文件已存在
+2018-05-19 15:15:08,108 - login.py [line34]INFO 注册成功，欢迎使用51memo
+2018-05-19 15:15:50,354 - login.py [line42]DEBUG 该hujingyi用户数据文件已生成
+2018-05-19 15:16:23,011 - main.py [line13]INFO 用户登录，返回该用户数据文件名
+2018-05-19 15:19:59,544 - MemoAdmin.py [line22]INFO 已经成功添加
+2018-05-19 15:20:35,223 - main.py [line15]INFO 利用数据文件名进行操作
+2018-05-19 15:21:20,599 - config.py [line35]DEBUG 配置信息已存入配置文件
+2018-05-19 15:21:28,568 - main.py [line17]INFO 用户配置文件生成
